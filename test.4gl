@@ -1,0 +1,7 @@
+MAIN
+    OPEN WINDOW w WITH FORM "test"
+    MENU ""
+        ON ACTION ACCEPT
+            EXIT MENU
+    END MENU 
+END MAIN
