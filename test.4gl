@@ -4,4 +4,5 @@ MAIN
         ON ACTION ACCEPT
             EXIT MENU
     END MENU 
+    # add line to 4gl
 END MAIN
