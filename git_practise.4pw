@@ -73,6 +73,15 @@
   <PlatformList version="1.0"/>
   <Group id="75644415" label="Group" language="Genero">
     <Application binaryName="Application" dependencies="14000,1986" id="18736" label="Application">
+      <VirtualFolder label="webcomponents">
+        <VirtualFolder label="test">
+          <File filePath="webcomponents/test/test.html"/>
+          <File filePath="webcomponents/test/test.js"/>
+        </VirtualFolder>
+        <VirtualFolder label="test2">
+          <File filePath="webcomponents/test2/test2.html"/>
+        </VirtualFolder>
+      </VirtualFolder>
       <Configuration id="-1429969501" label="Application"/>
       <File filePath=".gitignore"/>
       <File filePath="test.4gl"/>
